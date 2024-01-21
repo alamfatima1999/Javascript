@@ -32,3 +32,9 @@ Customer can:
 Adding additional Database sql file.
 Please create a instance of Database in Mysql & follow file & create all table & update foreign & primary key as per the SQL script
 
+# Step to run:
+1) Navigate to server side
+2) Npm install dependency for Server
+3) start nodejs Server by using script: npm run start
+4) Open root level Index.html
+
