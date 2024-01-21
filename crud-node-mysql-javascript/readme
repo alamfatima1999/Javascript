@@ -26,3 +26,9 @@ Customer can:
   <li>Buy for products in the shopping cart
 </ol>
 </div>
+
+
+# Database
+Adding additional Database sql file.
+Please create a instance of Database in Mysql & follow file & create all table & update foreign & primary key as per the SQL script
+
